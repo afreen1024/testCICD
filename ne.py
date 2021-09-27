@@ -1,2 +1,1 @@
-abc = "afreen"
-abc
+print("Hello world")
